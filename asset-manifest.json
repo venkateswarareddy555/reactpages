@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/reactpages/static/css/main.5f361e03.chunk.css",
-    "main.js": "/reactpages/static/js/main.15c057f7.chunk.js",
-    "main.js.map": "/reactpages/static/js/main.15c057f7.chunk.js.map",
-    "runtime-main.js": "/reactpages/static/js/runtime-main.547362c7.js",
-    "runtime-main.js.map": "/reactpages/static/js/runtime-main.547362c7.js.map",
-    "static/js/2.74710cab.chunk.js": "/reactpages/static/js/2.74710cab.chunk.js",
-    "static/js/2.74710cab.chunk.js.map": "/reactpages/static/js/2.74710cab.chunk.js.map",
-    "index.html": "/reactpages/index.html",
-    "precache-manifest.6fb2dc0f29c6dc0ab67ed59a84c55f25.js": "/reactpages/precache-manifest.6fb2dc0f29c6dc0ab67ed59a84c55f25.js",
-    "service-worker.js": "/reactpages/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/reactpages/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.74710cab.chunk.js.LICENSE.txt": "/reactpages/static/js/2.74710cab.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/reactpages/static/media/logo.5d5d9eef.svg"
+    "main.css": "/oct5react/static/css/main.5f361e03.chunk.css",
+    "main.js": "/oct5react/static/js/main.2ce29f3e.chunk.js",
+    "main.js.map": "/oct5react/static/js/main.2ce29f3e.chunk.js.map",
+    "runtime-main.js": "/oct5react/static/js/runtime-main.b402ce39.js",
+    "runtime-main.js.map": "/oct5react/static/js/runtime-main.b402ce39.js.map",
+    "static/js/2.790d5c8c.chunk.js": "/oct5react/static/js/2.790d5c8c.chunk.js",
+    "static/js/2.790d5c8c.chunk.js.map": "/oct5react/static/js/2.790d5c8c.chunk.js.map",
+    "index.html": "/oct5react/index.html",
+    "precache-manifest.95774f8075b0d9961314544e1850f524.js": "/oct5react/precache-manifest.95774f8075b0d9961314544e1850f524.js",
+    "service-worker.js": "/oct5react/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/oct5react/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.790d5c8c.chunk.js.LICENSE.txt": "/oct5react/static/js/2.790d5c8c.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/oct5react/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.547362c7.js",
-    "static/js/2.74710cab.chunk.js",
+    "static/js/runtime-main.b402ce39.js",
+    "static/js/2.790d5c8c.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.15c057f7.chunk.js"
+    "static/js/main.2ce29f3e.chunk.js"
   ]
 }
